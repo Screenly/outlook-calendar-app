@@ -1,1 +1,10 @@
-@import '@screenly/edge-apps/styles/calendar-app';
+/* Tailwind CSS, skipping Preflight (resets border/margin/padding on every
+   element via a universal selector and breaks custom-element hosts like
+   <app-header>). @screenly/edge-apps/styles goes in the `base` layer so any
+   Tailwind utility classes added later always win the cascade, regardless
+   of selector specificity. */
+@layer theme, base, utilities;
+
+@import 'tailwindcss/theme.css' layer(theme);
+@import '@screenly/edge-apps/styles' layer(base);
+@import 'tailwindcss/utilities.css' layer(utilities);
