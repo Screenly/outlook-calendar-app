@@ -1,4 +1,8 @@
+[![Version](https://img.shields.io/github/v/release/Screenly/outlook-calendar-app)](https://github.com/Screenly/outlook-calendar-app/releases/latest)
+
 # Screenly Outlook Calendar App
+
+![Outlook Calendar App Preview](/screenshots/daily-1920x1080.webp)
 
 ## Getting Started
 
