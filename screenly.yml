@@ -1,7 +1,7 @@
 ---
 syntax: manifest_v1
 description: Outlook Calendar Edge App
-icon: https://playground.srly.io/edge-apps/outlook-calendar/static/img/icon.svg
+icon: https://playground.srly.io/edge-apps/icons/outlook-calendar.svg
 author: Screenly, Inc.
 categories:
   - Productivity
